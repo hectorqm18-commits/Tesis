@@ -1,0 +1,5 @@
+*.pdf
+!documentos/reportes/*.pdf
+TESIS/
+.ipynb_checkpoints/
+__pycache__/

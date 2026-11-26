@@ -1,0 +1,6 @@
+# Ajuste lineal de log10 M(d) vs log10 d, d = 1..100, promedio de 100 cadenas
+# N=50 m=3 K=3 T=6000 gamma=0.54; unico filtro: se quitan los M(d) = 0
+caso,ceros_eliminados,puntos_usados,pendiente,R2,ordenada_log10
+ingenuos,0,100,-0.001409,0.000414,-3.311534
+2 estrategias sin puntaje,0,100,-0.992138,0.841884,-1.493802
+2 estrategias con puntaje,0,100,-0.606740,0.584202,-2.253292
